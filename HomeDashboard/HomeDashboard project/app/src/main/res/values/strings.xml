@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeDashboard</string>
+    <string name="home_dashboard_title">HomeDashboard</string>
+    <string name="banking_title">Banking</string>
+    <string name="check_bank_activity">Check bank activity</string>
+    <string name="ideas_title">Ideas</string>
+    <string name="add_title">Add</string>
+    <string name="links_title">Links</string>
+    <string name="wifi_title">Wifi</string>
+    <string name="check_your_bank_activity">Check your bank activity</string>
+</resources>
