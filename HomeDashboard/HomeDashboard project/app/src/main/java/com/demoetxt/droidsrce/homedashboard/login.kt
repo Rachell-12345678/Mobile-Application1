@@ -32,7 +32,7 @@ class LoginActivity : AppCompatActivity() {
             }
 
 
-            if (username == "admin" && password == "1234") {
+            if (username == "Rahel" && password == "54321") {
                 Toast.makeText(this, "Login Successful", Toast.LENGTH_SHORT).show()
 
 
@@ -45,3 +45,4 @@ class LoginActivity : AppCompatActivity() {
         }
     }
 }
+
